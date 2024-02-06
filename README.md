@@ -3,7 +3,6 @@ Python-based raster viewer project that aims to provide a user-friendly interfac
 
 Task 1: Raster Viewer: Develop a Python-based raster viewer. Implement functionalities for loading and displaying raster data, allowing users to zoom, and pan.
 
-        For the Task 1--
         Pillow library: was installed, which is a powerful image processing library in Python.
         Image: This module from the Pillow library is used for opening, manipulating, and saving image files.
         ipywidgets: This library provided interactive widgets for the Jupyter notebook.
